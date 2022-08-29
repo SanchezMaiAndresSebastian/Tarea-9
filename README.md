@@ -18,7 +18,7 @@ Circuitos RLC y resonancia - Filtros Pasivos
 ### 2. MARCO TEORICO
 ![](https://innovacionumh.es/Proyectos/P_19/Tema_3/images/pic236.jpg)
 
-![](https://www.researchgate.net/profile/Jaime-Gonzalez-Velasco/publication/325285644/figure/fig8/AS:629017501769735@1526980867264/Figura-116-Calculo-de-la-impedancia-total-de-un-circuito-formado-por-una-impedancia-en.png)
+![](https://2.bp.blogspot.com/-7sCqEnBX6Uc/WuppbgSmgII/AAAAAAAAFEQ/LNaSpClwoA03EQ8XjRvAYGtnpesHsj9XwCLcBGAs/s280/IMPEDANCIA%2B4.bmp)
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
