@@ -10,10 +10,11 @@ Circuitos RLC y resonancia - Filtros Pasivos
 
 **Específicos**
 
-- Identificar cuáles son las características de un circuito con corriente alterna.
+- Determinar los artififcios aritmeticos que permiten la resolucion de circuitos rlc en paralelo o en serie.
 - Determinar los capacitores de un circuito en serie y en paralelo.
 - Determinar las relaciones que existe entre las ondas sinusoidales y el campo de los números complejos.
 - Distinguir las siguientes problemáticas que puedan ocurrir en la construcción de un circuito en serie y en paralelo.
+- Distinguir los tipos de filtros que permiten su fucnionamiennto al filtara distintio tipos de freceuncias.
 
 ### 2. MARCO TEORICO
 ![](https://innovacionumh.es/Proyectos/P_19/Tema_3/images/pic236.jpg)
@@ -68,7 +69,7 @@ https://youtu.be/Y-3tUByS7xI
 
 ### 5. CONCLUSIONES
 
-- Las características de la corriente alterna es que a medid que avanza el tiempo siempre está cavilando y una frecuencia y velocidad, por ende, esto se puede utilizar en funciones de onda.
+- La resolución de los circuitos RLC se tiene que ahcero mediante el calculos de impedancias con el cual se facilita el calcuo del mismo.
 - La Característica principal de un circuito en paralelo es de que tienen diferentes corrientes y el mismo voltaje en el nodo.
 - La potencia en un circuito en serie es la suma de todas las potencias que existen en los resistores que acompañan a dicho circuito en serie.
 - Dependiendo de la cantidad de corriente que se ingresas al capacitor esta ira bajando de manera controlada su corriente y voltaje.
