@@ -20,6 +20,8 @@ Circuitos RLC y resonancia - Filtros Pasivos
 
 ![](https://2.bp.blogspot.com/-7sCqEnBX6Uc/WuppbgSmgII/AAAAAAAAFEQ/LNaSpClwoA03EQ8XjRvAYGtnpesHsj9XwCLcBGAs/s280/IMPEDANCIA%2B4.bmp)
 
+![](https://slideplayer.es/slide/1477881/3/images/11/Especificaciones+reales+para+el+dise%C3%B1o+de+un+filtro+pasabanda.jpg)
+
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 ![](https://github.com/SanchezMaiAndresSebastian/Tarea-9/blob/main/Fotos/Tarea%209%20-%20Fund.%20de%20Circuitos%202022-01.png)
