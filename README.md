@@ -10,11 +10,11 @@ Circuitos RLC y resonancia - Filtros Pasivos
 
 **Específicos**
 
-- Determinar los artififcios aritmeticos que permiten la resolucion de circuitos rlc en paralelo o en serie.
+- Determinar los artificios aritméticos que permiten la resolución de circuitos rlc en paralelo o en serie.
 - Determinar los capacitores de un circuito en serie y en paralelo.
 - Determinar las relaciones que existe entre las ondas sinusoidales y el campo de los números complejos.
 - Distinguir las siguientes problemáticas que puedan ocurrir en la construcción de un circuito en serie y en paralelo.
-- Distinguir los tipos de filtros que permiten su fucnionamiennto al filtara distintio tipos de freceuncias.
+- Distinguir los tipos de filtros que permiten su funcionamiento al filtrar distinto tipos de frecuencias.
 
 ### 2. MARCO TEORICO
 ![](https://innovacionumh.es/Proyectos/P_19/Tema_3/images/pic236.jpg)
@@ -69,11 +69,12 @@ https://youtu.be/Y-3tUByS7xI
 
 ### 5. CONCLUSIONES
 
-- La resolución de los circuitos RLC se tiene que ahcero mediante el calculos de impedancias con el cual se facilita el calcuo del mismo.
+- La resolución de los circuitos RLC se tiene que acero mediante el cálculo de impedancias con el cual se facilita el cálculo de este.
 - La Característica principal de un circuito en paralelo es de que tienen diferentes corrientes y el mismo voltaje en el nodo.
 - La potencia en un circuito en serie es la suma de todas las potencias que existen en los resistores que acompañan a dicho circuito en serie.
 - Dependiendo de la cantidad de corriente que se ingresas al capacitor esta ira bajando de manera controlada su corriente y voltaje.
 ### 6. BIBLIOGRAFÍA
 
-- Dore, R. C., & Sobada, J. A. (2010). Introducción ti Electric Circuitos (8.a ed.). John Wiley & Sons Inc.
-- Floyd, T. L. (2022). Principios De Circuitos Eléctricos C/Cd Rom (8.a ed.). PRENTICE HALL/PEARSON.v  
+- Dore, R. C., & Sobada, J. A. (2010). Introducción ti Electric Circuitos (8.a ed.). John Wiley & Son Inc.
+- Floyd, T. L. (2022). Principios De Circuitos Eléctricos C/Cd Rom (8.a ed.). PRENTICE HALL/Pearson  
+ 
