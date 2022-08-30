@@ -65,7 +65,7 @@ Circuitos RLC y resonancia - Filtros Pasivos
 
 ### 4. VIDEO
 
-https://youtu.be/Y-3tUByS7xI
+https://youtu.be/56MaMk4Rh5g
 
 ### 5. CONCLUSIONES
 
